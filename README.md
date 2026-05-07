@@ -6,14 +6,23 @@ This project is for optimize your Windows withot affect your traditional use
 Menu preview
 
 /==================================\
+
 º Que herramienta desea ejecutar?  º
+
 º==================================º
+
 º 1._ Desfragmentador              º
+
 º 2._ Limpiador                    º
+
 º 3._ Kill-Svc                     º
+
 º 4._ Que hay de nuevo?            º
+
 º 5._ Ez Mode                      º
+
 º 6._ Back                         º
+
 \==================================/
 
 3. To use this program, select one option writing the option and press enter
